@@ -1,0 +1,11 @@
+D:\IT_file\Program\ASP.NET\Hello_Git\Hello_Git\bin\Debug\netcoreapp2.1\Hello_Git.deps.json
+D:\IT_file\Program\ASP.NET\Hello_Git\Hello_Git\bin\Debug\netcoreapp2.1\Hello_Git.runtimeconfig.json
+D:\IT_file\Program\ASP.NET\Hello_Git\Hello_Git\bin\Debug\netcoreapp2.1\Hello_Git.runtimeconfig.dev.json
+D:\IT_file\Program\ASP.NET\Hello_Git\Hello_Git\bin\Debug\netcoreapp2.1\Hello_Git.dll
+D:\IT_file\Program\ASP.NET\Hello_Git\Hello_Git\bin\Debug\netcoreapp2.1\Hello_Git.pdb
+D:\IT_file\Program\ASP.NET\Hello_Git\Hello_Git\obj\Debug\netcoreapp2.1\Hello_Git.csprojAssemblyReference.cache
+D:\IT_file\Program\ASP.NET\Hello_Git\Hello_Git\obj\Debug\netcoreapp2.1\Hello_Git.csproj.CoreCompileInputs.cache
+D:\IT_file\Program\ASP.NET\Hello_Git\Hello_Git\obj\Debug\netcoreapp2.1\Hello_Git.AssemblyInfoInputs.cache
+D:\IT_file\Program\ASP.NET\Hello_Git\Hello_Git\obj\Debug\netcoreapp2.1\Hello_Git.AssemblyInfo.cs
+D:\IT_file\Program\ASP.NET\Hello_Git\Hello_Git\obj\Debug\netcoreapp2.1\Hello_Git.dll
+D:\IT_file\Program\ASP.NET\Hello_Git\Hello_Git\obj\Debug\netcoreapp2.1\Hello_Git.pdb
